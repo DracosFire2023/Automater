@@ -9,4 +9,4 @@ infosec resources such as VirusTotal, UrlVoid and many others.
 
 I have created Windows batch files for automatic launching of the program, it should work without the need for Python to be installed.
 
-I have also included automatic HTML report generation.
+I have also included automatic HTML report generation, reports are named after your search and stored in "findings" folder.
